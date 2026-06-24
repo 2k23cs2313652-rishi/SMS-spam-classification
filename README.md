@@ -3,6 +3,9 @@
 ## Overview
 A machine learning web application that classifies SMS messages as Spam or Ham.
 
+## Live Demo
+🚀 https://sms-spam-classification-rishi.onrender.com
+
 ## Features
 - Text preprocessing using NLTK
 - TF-IDF Vectorization
